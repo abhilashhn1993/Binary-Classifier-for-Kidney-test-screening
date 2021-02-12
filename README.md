@@ -20,7 +20,7 @@ Built the relationship model between factors causing chronic kidney disease. Ide
 
 ## CONCEPTUAL Model
 
-![GitHub Logo](https://github.com/skotak2/Factors_Causing_Chronic_Kidney_Disease/blob/main/Images/conceptual_model.PNG)
+![GitHub Logo](https://github.com/abhilashhn1993/Screening_test_for_CKD/blob/master/Images/conceptual_model.PNG)
 
 ## VARIABLE SELECTION
 
@@ -38,16 +38,18 @@ Chi – Square test to identify the relation between categorical variables and t
 
 T-test to identify the relationship with target variables and the variable under consideration
 
-![GitHub Logo](https://github.com/skotak2/Factors_Causing_Chronic_Kidney_Disease/blob/main/Images/data_exp.PNG)
+![GitHub Logo](https://github.com/abhilashhn1993/Screening_test_for_CKD/blob/master/Images/data_exp.PNG)
 
 ## LOGISTIC REGRESSION
 
 Built the logistic regression model to understand the relation the between *variables* (predictors for the chronic kidney disorder) and the *traget variable* (weather an individual is affected or not)
 
-![GitHub](https://github.com/skotak2/Factors_Causing_Chronic_Kidney_Disease/blob/main/Images/Logistic%20Regression.PNG)
+![GitHub](https://github.com/abhilashhn1993/Screening_test_for_CKD/blob/master/Images/Logistic%20Regression.PNG)
 
-![GitHub](https://github.com/skotak2/Factors_Causing_Chronic_Kidney_Disease/blob/main/Images/results.PNG)
+![GitHub](https://github.com/abhilashhn1993/Screening_test_for_CKD/blob/master/Images/results.PNG)
 
 ## RESULTS
 
 Factors like AGE, RACE(hispanic), HDL levels, HYPERTENSION, DIABETES and CARDIO VASCULAR DISEASES proved to be the significant predictors for the target variable.
+
+Code file can be found [here](https://github.com/abhilashhn1993/Screening_test_for_CKD/tree/master/Code)
